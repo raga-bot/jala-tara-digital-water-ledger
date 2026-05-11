@@ -1,0 +1,15 @@
+Jala-Tara Digital Water Ledger — Looker Studio Dashboard
+=========================================================
+Public Link: https://datastudio.google.com/reporting/2e3d6d17-1949-44aa-a776-6d6ab27f388d
+
+Pages:
+1. Executive Summary
+2. Leakage Heatmap
+3. Peak Demand Hours
+4. Midnight Flow Detection
+5. AI Anomaly Intelligence
+
+Data Last Updated: May 2026
+Built by: Ragavarshini Besta Sudha
+Role: Data Analyst Intern (Gen AI)
+Program: MindMatrix VTU Internship — CL Infotech Pvt. Ltd.
