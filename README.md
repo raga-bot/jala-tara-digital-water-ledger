@@ -135,8 +135,8 @@ jala-tara/
 ├── lookml/
 │   ├── water_ledger.model.lkml     # Explores + joins
 │   └── water_ledger.views.lkml    # All 5 views with measures + parameters
-├── dashboard/
-│   └── screenshots/                # Dashboard page screenshots
+├── Jala-Tara_Dashboard_Link.txt   # Dashboard page Link
+├── Jala_Tara_Dashboard.pdf        # Dashboard page pdf
 └── README.md
 ```
 
