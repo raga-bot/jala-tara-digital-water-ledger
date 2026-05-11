@@ -368,7 +368,7 @@ Open [lookerstudio.google.com](https://lookerstudio.google.com), connect all 5 B
 
 ## Confidentiality Notice
 
-This project was developed as part of the **MindMatrix VTU Internship Program** by CL Infotech Pvt. Ltd. All data used is mock/synthetic. Proprietary project scenarios must not be shared publicly without written consent. The developer retains the right to cite this work for academic and internship completion purposes only.
+This project was developed as part of the **MindMatrix VTU Internship Program**. All data used is mock/synthetic. Proprietary project scenarios must not be shared publicly without written consent. The developer retains the right to cite this work for academic and internship completion purposes only.
 
 ---
 
